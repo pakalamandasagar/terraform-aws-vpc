@@ -40,6 +40,10 @@ This module creates following resources. we are using HA, we are getting first 2
 
 ### Outputs
 * vpc_id - VPC ID created
+* public_subnet_ids - 2 public subnet ID created
+* private_subnet_ids - 2 private subnet ID created
+* database_subnet_ids - 2 database subnet ID created
+
 
 
 
